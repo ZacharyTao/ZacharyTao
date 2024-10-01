@@ -9,6 +9,7 @@
 
 - 🎓 CS + Math 2025 @ Vanderbilt University
 - 💻 My favorite projects [**Moments**](https://github.com/ZacharyTao/Moments)
+- 🎥 I make videos 🎸 [ZacharyTao](https://www.youtube.com/@zacharywtao)
 
 
 
