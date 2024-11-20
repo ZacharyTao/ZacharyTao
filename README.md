@@ -8,6 +8,7 @@
 ### 🌟 A Bit About Me:
 
 - 🎓 CS + Math 2025 @ Vanderbilt University
+- 👨‍💻 Engineering Manager for [**NAMI**](https://github.com/ChangePlusPlusVandy/NAMI)
 - 🏋️ Incoming Software Engineer @   
 - 💻 My favorite project [**Moments**](https://github.com/ZacharyTao/Moments)
 - 🎥 I make videos 🎸 [**ZacharyTao**](https://www.youtube.com/@zacharywtao)
